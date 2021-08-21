@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there i'm Faqih 👋
+I'm a Product Designer and Blockchain enthusiast who living in Sukabumi , Jawa Barat , Indonesia.
 
+![Profile views](https://gpvc.arturio.dev/msopyan)
+
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msopyan&langs_count=9&hide=php,css,html,tsql&layout=compact)
+
+---
+![fazaio github stat](https://github-readme-stats.vercel.app/api?username=msopyan&show_icons=true&hide_border=true)
+<!--
 **msopyan/msopyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
